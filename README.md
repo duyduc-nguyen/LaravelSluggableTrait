@@ -2,6 +2,10 @@
 
 Create unique slugs for your Eloquent models in Laravel. Support Cache
 
+## Install
+
+	$ composer require duyduc-nguyen/laravel-sluggable-trait
+
 ## Usage
 
 ```php

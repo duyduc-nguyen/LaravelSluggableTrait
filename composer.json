@@ -1,6 +1,7 @@
 {
     "name": "duyduc-nguyen/laravel-sluggable-trait",
     "description": "Create unique slugs for your Eloquent models in Laravel. Support Cache",
+    "version": "0.1.0",
     "license": "MIT",
     "keywords": ["nacho"],
     "authors": [
