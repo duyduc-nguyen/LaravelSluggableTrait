@@ -3,7 +3,7 @@
     "description": "Create unique slugs for your Eloquent models in Laravel. Support Cache",
     "version": "0.1.0",
     "license": "MIT",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Nguyen Chi Duy Duc",
@@ -12,8 +12,8 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/database": ">=4.0",
-        "illuminate/support": ">=4.0"
+        "illuminate/database": "dev-master",
+        "illuminate/support": "dev-master"
     },
     "type": "library",
     "keywords": ["laravel", "eloquent"],
